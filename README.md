@@ -36,7 +36,7 @@ python main.py -input <test image path> -output <path for saving result>
 
 ## Some results
 <p align="center">
-    <img src="gan_detect_iris/outputs/seed000000_iris_final.jpg" height="400" width= "800">
+    <img src="outputs/seed000000_iris_final.jpg" height="400" width= "800">
 </p>
 
 ## Citation
