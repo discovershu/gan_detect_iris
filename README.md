@@ -36,7 +36,7 @@ python main.py -input <test image path> -output <path for saving result>
 
 ## Some results
 <p align="center">
-    <img src="outputs/seed000000_iris_final.jpg" height="400" width= "800">
+    <img src="outputs/seed000000_iris_final.jpg" height="389" width= "297">
 </p>
 
 ## Citation
