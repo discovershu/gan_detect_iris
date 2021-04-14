@@ -35,13 +35,8 @@ python main.py -input <test image path> -output <path for saving result>
 ```
 
 ## Some results
-
-```train
-python AoRR/plot_aggregate_interpretation.py
-```
-
 <p align="center">
-    <img src="gan_detect_iris_for_submit/outputs/seed000000_iris_final.jpg" height="400" width= "800">
+    <img src="gan_detect_iris/outputs/seed000000_iris_final.jpg" height="400" width= "800">
 </p>
 
 ## Citation
