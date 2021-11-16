@@ -42,10 +42,12 @@ python main.py -input <test image path> -output <path for saving result>
 ## Citation
 Please kindly consider citing our paper in your publications. 
 ```bash
-@article{hu2020exposing,
+@inproceedings{hu2021exposing,
   title={Exposing GAN-generated Faces Using Inconsistent Corneal Specular Highlights},
   author={Hu, Shu and Li, Yuezun and Lyu, Siwei},
-  journal={arXiv preprint arXiv:2009.11924},
-  year={2020}
+  booktitle={ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={2500--2504},
+  year={2021},
+  organization={IEEE}
 }
 ```
